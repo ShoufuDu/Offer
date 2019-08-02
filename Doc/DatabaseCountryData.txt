@@ -1,0 +1,11 @@
+CountryId,CountryName,CountryCode
+1,Australia,AU
+2,New Zealand,NZ
+3,Antarctica,AQ
+4,Argentina,AR
+5,Brazil,BR
+6,Australia,AU
+7,New Zeland,NZ
+8,Antarticia,AQ
+9,Argentina,AR
+10,Brazil,BR
